@@ -1,16 +1,45 @@
-### Hi there 👋
 
-<!--
-**schroeder-g/schroeder-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### أهلا بك | Welcome | स्वागत हे  |Bem vindo | ようこそ | 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+OOP, MVC, JPG, IoT on my IDE. My name is Alexander Schroeder Goncalves and I am an opinionated full stack developer and fulltime believer in moonshots seeking to build distributed & disruptive solutions to tomorrows problems.
+
+-----
+
+Skills:
+
+- blue chip web design with React.js, Redux, and GSAP
+- RDBM with Java, Spring, Maven, & PostgresQL
+- Data visualization with R and chart.js
+- Deployment with AWS and Big Query
+- VR development with Unity
+
+-----
+<a href="https://github.com/schroeder-g">
+  <img src="https://komarev.com/ghpvc/?usernameschroeder-g&style=flat-square" />
+</a>
+
+
+***
+
+<a href="https://github.com/schroeder-g">
+  <img src="https://github-readme-stats.vercel.app/api?username=schroeder-g&show_icons=true&hide_border=true" />
+</a>
+
+---
+
+<a href="https://github.com/schroeder-g">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schroeder-g&layout=compact" />
+</a>
+
+
+Feel free to chat with me on discord.
+
+-----
+
+
+Have a Great Day!
+
+⭐️ From [schroeder-g](https://github.com/schroeder-g)
