@@ -17,12 +17,7 @@ Skills:
 - VR development with Unity
 
 -----
-<a href="https://github.com/schroeder-g">
-  <img src="https://komarev.com/ghpvc/?usernameschroeder-g&style=flat-square" />
-</a>
 
-
-***
 
 <a href="https://github.com/schroeder-g">
   <img src="https://github-readme-stats.vercel.app/api?username=schroeder-g&show_icons=true&hide_border=true" />
@@ -35,7 +30,7 @@ Skills:
 </a>
 
 
-Feel free to chat with me on discord.
+If you're interested in discussing 
 
 -----
 
