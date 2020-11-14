@@ -4,17 +4,17 @@
 
 ----
 
-OOP, MVC, JPG, IoT on my IDE. My name is Alexander Schroeder Goncalves and I am an opinionated full stack developer and fulltime believer in moonshots seeking to build distributed & disruptive solutions to tomorrows problems.
+OOP, MVC, JPG, IoT on my IDE. I am an opinionated full stack developer and fulltime believer in moonshots seeking to build distributed & disruptive solutions to tomorrows problems.
 
 -----
 
 Skills:
 
-- blue chip web design with React.js, Redux, and GSAP
-- RDBM with Java, Spring, Maven, & PostgresQL
-- Data visualization with R and chart.js
-- Deployment with AWS and Big Query
-- VR development with Unity
+- blue chip web design with React.js, Redux, and GSAP 👨‍💻
+- RDBM with Java, Spring, JPA, Maven, & PostgresQL 💾
+- Data visualization with R and D3 📊
+- Deployment with AWS and Big Query 🚀
+- VR development with Unity 😎
 
 -----
 
@@ -31,6 +31,7 @@ Skills:
 
 
 If you're interested in new technologies like VR, IoT, and Artificial Intelligence, follow my blog or shoot me a message at <a href="https://fourseven.xyz">fourseven.xyz</a>
+Twitter: @don_mikado
 
 -----
 
