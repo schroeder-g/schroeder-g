@@ -1,12 +1,15 @@
 
-### أهلا بك | Welcome | स्वागत हे  |Bem vindo | ようこそ | 
+### أهلا بك | Welcome | स्वागत हे  |Bem vindo | ようこそ  
 
 
 ----
 
 OOP, MVC, JPG, IoT on my IDE. I am an opinionated full stack developer and fulltime believer in moonshots seeking to build distributed & disruptive solutions to tomorrows problems.
 
+Outside my time in the developer's chair, I'm a passionate writer, frontiersman, board game villain, and player of racket sports.
+
 -----
+
 
 Skills:
 
