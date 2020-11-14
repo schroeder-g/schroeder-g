@@ -30,11 +30,11 @@ Skills:
 </a>
 
 
-If you're interested in new technologies like VR, IoT, and Artificial Intelligence, follow my blog or shoot me a message at <a href="https://fourseven.xyz">fourseven.xyz</a>
 
 -----
 
+If you're interested in new technologies like VR, IoT, or Artificial Intelligence, follow my blog or shoot me a message at <a href="https://fourseven.xyz">fourseven.xyz</a>
 
-Have a Great Day!
+Stay hacking!
 
 ⭐️ From [schroeder-g](https://github.com/schroeder-g)
