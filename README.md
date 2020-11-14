@@ -31,7 +31,8 @@ Skills:
 
 
 If you're interested in new technologies like VR, IoT, and Artificial Intelligence, follow my blog or shoot me a message at <a href="https://fourseven.xyz">fourseven.xyz</a>
-Twitter: @don_mikado
+</ br >
+
 
 -----
 
