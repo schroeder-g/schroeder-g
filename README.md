@@ -36,7 +36,8 @@ Skills:
 
 -----
 
-If you're interested in new technologies like VR, IoT, or Artificial Intelligence, follow my blog or shoot me a message at <a href="https://fourseven.xyz">fourseven.xyz</a>
+If you're interested in new technologies like VR, IoT, or Artificial Intelligence, follow my blog or shoot me a message at <a href="https://fourseven.xyz">fourseven.xyz</a> or schroedergoncalves@gmail.com
+
 
 Stay hacking!
 
