@@ -16,7 +16,7 @@ Skills:
 - blue chip web design with React.js, Redux, and GSAP 👨‍💻
 - RDBM with Java, Spring, JPA, Maven, & PostgresQL 💾
 - Data visualization with R and D3 📊
-- Deployment with AWS and Big Query 🚀
+- Deployment with AWS, Heroku, and Big Query 🚀
 - VR development with Unity 😎
 
 -----
