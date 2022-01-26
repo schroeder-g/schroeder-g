@@ -4,7 +4,7 @@
 
 ----
 
-OOP, MVC, JPG, IoT on my IDE. I am an opinionated full stack developer and fulltime believer in moonshots seeking to build distributed & disruptive solutions for tomorrows problems.
+OOP, MVC, and IoT on my IDE. I am an opinionated full stack developer and fulltime believer in moonshots seeking to build distributed & disruptive solutions for tomorrows problems.
 
 Outside my time in the developer's chair, I'm a passionate writer, frontiersman, board game villain, and player of racket sports.
 
@@ -13,11 +13,11 @@ Outside my time in the developer's chair, I'm a passionate writer, frontiersman,
 
 Skills:
 
-- blue chip web design with TypeScript, React, and Next 🖥️
-- RDBM with Java Spring & Maven / Express, GraphQL and MongoDB 💾
-- Data visualization with D3 and pandas 🧮
-- Deployment with AWS, Heroku, and Firebase 🚀
-- CI/CD with Docker and Github Actions 🏗️
+- Blue chip web design with TypeScript, React, && Next 🖥️
+- RDBM with Java Spring && Maven / Express, GraphQL && MongoDB 💾
+- Data visualization with D3 && pandas 🧮
+- Deployment with AWS, Heroku, && Firebase 🚀
+- CI/CD with Docker && Github Actions 🏗️
 
 -----
 
