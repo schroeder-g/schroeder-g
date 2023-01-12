@@ -11,13 +11,13 @@ Outside my time in the developer's chair, I'm a passionate writer, frontiersman,
 -----
 
 
-Skills:
+**Skills**:
 
-- Blue chip web design with TypeScript, React, && Next 🖥️
+- Blue chip application development with TypeScript, React, && Next 🖥️
 - RDBM with Java Spring && Maven / Express, GraphQL && MongoDB 💾
-- Data visualization with D3 && pandas 🧮
-- Deployment with AWS, Heroku, && Firebase 🚀
-- CI/CD with Docker && Github Actions 🏗️
+- Data visualization with plotly && pandas 🧮🐼
+- Deployment with Vercel, Firebase, AWS, Heroku, &&  🚀
+- CI/CD with Docker, K8s && Github Actions 🏗️
 
 -----
 
