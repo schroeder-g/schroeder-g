@@ -4,19 +4,23 @@
 
 ----
 
-OOP, MVC, and IoT on my IDE. I am an opinionated full stack developer and fulltime believer in moonshots seeking to build distributed & disruptive solutions for tomorrows problems.
+A senior full stack engineer with a strong passion for innovation and a desire to tackle the challenges of tomorrow, I specialize in building distributed and disruptive solutions that make a meaningful impact in the world.
 
-Outside my time in the developer's chair, I'm a passionate writer, frontiersman, board game villain, and player of racket sports.
+I take pride in my ability to push the boundaries of what's possible and strive to be an asset to any team I work with. My approach to problem-solving is grounded in a keen attention to detail through Test-Driven Development, and I always look for opportunities to optimize and improve my code.
+
+Beyond my time in the developer's chair, I am a passionate writer, frontiersman, and chess enthusiast. When I'm not working on code, you can find me playing racket sports, hiking, or cooking up some vegan potato fritters.
+
+Whether it's working on a moonshot project that seeks to solve tomorrow's most pressing problems, or simply discussing the latest advancements in tech and their potential to make a difference, I am always eager to connect with others who share my vision for a better future.
 
 -----
 
 
-**Skills**:
+**Capabilities**:
 
-- Blue chip application development with TypeScript, React, && Next 🖥️
-- RDBM with Java Spring && Maven / Express, GraphQL && MongoDB 💾
-- Data visualization with plotly && pandas 🧮🐼
-- Deployment with Vercel, Firebase, AWS, Heroku, &&  🚀
+- Seamless UX with TypeScript, React, Next, and Three.js 🖥️
+- Backend with Java Spring && Maven || Express, GraphQL && MongoDB 💾
+- Data visualization with pandas 🧮🐼
+- Hosting agnostic -- experienced with Vercel, GCP, Heroku, AWS, and Azure 🚀
 - CI/CD with Docker, K8s && Github Actions 🏗️
 
 -----
@@ -33,12 +37,6 @@ Outside my time in the developer's chair, I'm a passionate writer, frontiersman,
 </a>
 
 
-
------
-
-If you're interested in new technologies like VR, IoT, or Artificial Intelligence, follow my blog or shoot me a message at <a href="https://alex-g.me">alex-g.me</a> or schroedergoncalves at gmail dot com
-
-
-Stay hacking!
+Thanks for checking out my profile. If you want to know more about my Stay hacking!
 
 ⭐️ From [schroeder-g](https://github.com/schroeder-g)
