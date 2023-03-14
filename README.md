@@ -37,6 +37,6 @@ Whether it's working on a moonshot project that seeks to solve tomorrow's most p
 </a>
 
 
-Thanks for checking out my profile. If you want to know more about my Stay hacking!
+Thanks for checking out my profile. If you want to know more about my latest projects, check out [my portfolio](http://alex-g.com) (some exciting stuff under construction right now). Stay hacking!
 
 ⭐️ From [schroeder-g](https://github.com/schroeder-g)
