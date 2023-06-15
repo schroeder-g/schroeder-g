@@ -22,6 +22,7 @@ Whether it's working on a moonshot project that seeks to solve tomorrow's most p
 🐼 Time series analysis and forecast visualization
 🤖 Agent orchestration
 🚀 distributed system management across VPCs: Vercel, AWS, Azure, and GCP 
+
 -----
 
 <a href="https://github.com/schroeder-g">
