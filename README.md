@@ -18,9 +18,13 @@ Whether it's working on a moonshot project that seeks to solve tomorrow's most p
 **Capabilities**:
 
 🖥️ Bespoke UX with TypeScript, React, Next, Storybook, and Three.js 
+
 💾 SQL, NoSQL, Vector DB Administration
+
 🐼 Time series analysis and forecast visualization
+
 🤖 Agent orchestration
+
 🚀 distributed system management across VPCs: Vercel, AWS, Azure, and GCP 
 
 -----
