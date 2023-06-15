@@ -6,7 +6,7 @@
 
 A senior full stack engineer with a strong passion for innovation and a desire to tackle the challenges of tomorrow, I specialize in building distributed and disruptive solutions that make a meaningful impact in the world.
 
-I apply and extend existing technologies in order to transform existing . My approach to problem-solving is grounded in a keen attention to detail through Test-Driven Development, and I always look for opportunities to optimize and improve my code.
+I extend existing technologies to transform outcomes for organizations and the public. My approach to problem-solving is grounded in first principles thinking and validated through Test-Driven Development, and I always look for opportunities to optimize and improve my code.
 
 Beyond my time in the developer's chair, I am a science fiction writer,  and lover of probabilistic maths. When I'm not working on code, you can find me playing racket sports, hiking, or cooking up some vegan potato fritters.
 
@@ -18,9 +18,10 @@ Whether it's working on a moonshot project that seeks to solve tomorrow's most p
 **Capabilities**:
 
 🖥️ Bespoke UX with TypeScript, React, Next, Storybook, and Three.js 
-💾 SQL & NoSQL DB Administration
+💾 SQL, NoSQL, Vector DB Administration
 🐼 Time series analysis and forecast visualization
-🚀 extensive experience in managing distributed systems across VPC providers: Vercel, AWS, Azure, and GCP 
+🤖 Agent orchestration
+🚀 distributed system management across VPCs: Vercel, AWS, Azure, and GCP 
 -----
 
 <a href="https://github.com/schroeder-g">
