@@ -30,12 +30,6 @@ Whether it's working on a moonshot project that seeks to solve tomorrow's most p
 -----
 
 <a href="https://github.com/schroeder-g">
-  <img src="https://github-readme-stats.vercel.app/api?username=schroeder-g&show_icons=true&hide_border=true" />
-</a>
-
----
-
-<a href="https://github.com/schroeder-g">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schroeder-g&layout=compact" />
 </a>
 
