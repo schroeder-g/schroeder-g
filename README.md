@@ -14,7 +14,6 @@ Whether it's working on a moonshot project that seeks to solve tomorrow's most p
 
 -----
 
-
 **Capabilities**:
 
 🖥️ Bespoke UX with TypeScript, React, Next, Storybook, and Three.js 
@@ -28,11 +27,6 @@ Whether it's working on a moonshot project that seeks to solve tomorrow's most p
 🚀 distributed system management across VPCs: Vercel, AWS, Azure, and GCP 
 
 -----
-
-<a href="https://github.com/schroeder-g">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schroeder-g&layout=compact" />
-</a>
-
 
 Thanks for checking out my profile. If you want to know more about my latest projects, check out [my portfolio](http://alex-g.com) (some exciting stuff under construction right now). Stay hacking!
 
