@@ -4,7 +4,7 @@
 
 ----
 
-A senior full stack engineer with a strong passion for innovation and a desire to tackle the challenges of tomorrow, I specialize in building distributed and disruptive solutions that make a meaningful impact in the world.
+I build for a brighter future. As a full stack engineer, my passion is tackling distributed problems to solve the challenges of tomorrow I specialize in building distributed and disruptive solutions that make a meaningful impact in the world.
 
 I extend existing technologies to transform outcomes for organizations and the public. My approach to problem-solving is grounded in first principles thinking and validated through Test-Driven Development, and I always look for opportunities to optimize and improve my code.
 
