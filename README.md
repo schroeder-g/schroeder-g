@@ -4,17 +4,17 @@
 
 ----
 
-I build for a brighter future. As a full stack engineer, my passion is tackling distributed problems to solve the challenges of tomorrow I specialize in building distributed and disruptive solutions that make a meaningful impact in the world.
+### Bio
 
-I extend existing technologies to transform outcomes for organizations and the public. My approach to problem-solving is grounded in first principles thinking and validated through Test-Driven Development, and I always look for opportunities to optimize and improve my code.
+I build for a brighter future. As a full stack engineer, my passion is tackling distributed problems to solve the challenges of tomorrow. I specialize in building distributed and disruptive solutions that make a meaningful impact in the world.
 
-Beyond my time in the developer's chair, I am a science fiction writer,  and lover of probabilistic maths. When I'm not working on code, you can find me playing racket sports, hiking, or cooking up some vegan potato fritters.
+I extend existing technologies to transform outcomes for organizations and the public. My approach to problem-solving is grounded in first principles thinking and validated through Test-Driven Development.
 
-Whether it's working on a moonshot project that seeks to solve tomorrow's most pressing problems, or simply discussing the latest advancements in tech and their potential to make a difference, I am always eager to connect with others who share my vision for a better future.
+Whether you've got a moonshot project or want to discuss the latest developments in model architecture, let's connect.
 
 -----
 
-**Capabilities**:
+### **Capabilities**:
 
 🖥️ Bespoke UX with TypeScript, React, Next, Storybook, and Three.js 
 
@@ -24,7 +24,7 @@ Whether it's working on a moonshot project that seeks to solve tomorrow's most p
 
 🤖 Agent orchestration
 
-🚀 distributed system management across VPCs: Vercel, AWS, Azure, and GCP 
+🚀 distributed system management across VPCs: GCP, AWS, Vercel, and Cloudflare
 
 -----
 
