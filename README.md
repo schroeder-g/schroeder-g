@@ -30,4 +30,5 @@ Whether you've got a moonshot project or want to discuss the latest developments
 
 Thanks for checking out my profile. If you want to know more about my latest projects, check out [my portfolio](http://alex-g.com) (some exciting stuff under construction right now). Stay hacking!
 
-⭐️ From [schroeder-g](https://github.com/schroeder-g)
+With ❤️ 
+Alex
