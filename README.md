@@ -12,6 +12,8 @@ I build for a brighter future. In and out of my work I am passionate about apply
 
 ### **Capabilities**
 
+🗺️ System design
+
 🎨 Bespoke UX
 
 💾 DB Administration
@@ -19,8 +21,6 @@ I build for a brighter future. In and out of my work I am passionate about apply
 🐼 Data wrangling and analysis
 
 🤖 Prompt alchemy
-
-🚀 Distributed systems and CI/CD
 
 -----
 
