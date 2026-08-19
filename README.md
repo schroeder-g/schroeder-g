@@ -10,7 +10,7 @@ I build for a brighter future. In and out of my work I am passionate about apply
 
 -----
 
-### **Capabilities**:
+### **Capabilities**
 
 🎨 Bespoke UX
 
