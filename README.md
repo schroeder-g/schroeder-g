@@ -4,8 +4,6 @@
 
 ----
 
-### Bio
-
 I build for a brighter future. In and out of my work I am passionate about applying first principles to address the pressing challenges of our age, namely but not limited to: education; consensus; verification. 
 
 -----
