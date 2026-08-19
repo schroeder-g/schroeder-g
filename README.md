@@ -6,29 +6,25 @@
 
 ### Bio
 
-I build for a brighter future. As a full stack engineer, my passion is tackling distributed problems to solve the challenges of tomorrow. I specialize in building distributed and disruptive solutions that make a meaningful impact in the world.
-
-I extend existing technologies to transform outcomes for organizations and the public. My approach to problem-solving is grounded in first principles thinking and validated through Test-Driven Development.
-
-Whether you've got a moonshot project or want to discuss the latest developments in model architecture, let's connect.
+I build for a brighter future. In and out of my work I am passionate about applying first principles to address the pressing challenges of our age, namely but not limited to: education; consensus; verification. 
 
 -----
 
 ### **Capabilities**:
 
-🖥️ Bespoke UX with TypeScript, React, Next, Storybook, and Three.js 
+🎨 Bespoke UX
 
-💾 SQL, NoSQL, Vector DB Administration
+💾 DB Administration
 
-🐼 Time series analysis and forecast visualization
+🐼 Data wrangling and analysis
 
-🤖 Agent orchestration
+🤖 Prompt alchemy
 
-🚀 distributed system management across VPCs: GCP, AWS, Vercel, and Cloudflare
+🚀 Distributed systems and CI/CD
 
 -----
 
-Thanks for checking out my profile. If you want to know more about my latest projects, check out [my portfolio](http://alex-g.com) (some exciting stuff under construction right now). Stay hacking!
+Thanks for checking out my profile. If you want to know more about what I'm working on, peep [my portfolio](http://alex-g.com).
 
 With ❤️ 
-Alex
+schroeder-g
